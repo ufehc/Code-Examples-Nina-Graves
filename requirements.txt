@@ -1,0 +1,11 @@
+pytest~=7.1.2
+numpy~=1.23.1
+pandas~=1.4.3
+tqdm~=4.64.0
+scipy~=1.7.3
+requests~=2.28.1
+matplotlib~=3.5.1
+scikit-learn~=1.1.1
+statsmodels~=0.13.2
+seaborn
+dateutil

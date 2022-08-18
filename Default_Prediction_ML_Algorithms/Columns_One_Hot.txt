@@ -1,0 +1,178 @@
+grade_A
+grade_B
+grade_C
+grade_D
+grade_E
+grade_F
+grade_G
+sub_grade_A1
+sub_grade_A2
+sub_grade_A3
+sub_grade_A4
+sub_grade_A5
+sub_grade_B1
+sub_grade_B2
+sub_grade_B3
+sub_grade_B4
+sub_grade_B5
+sub_grade_C1
+sub_grade_C2
+sub_grade_C3
+sub_grade_C4
+sub_grade_C5
+sub_grade_D1
+sub_grade_D2
+sub_grade_D3
+sub_grade_D4
+sub_grade_D5
+sub_grade_E1
+sub_grade_E2
+sub_grade_E3
+sub_grade_E4
+sub_grade_E5
+sub_grade_F1
+sub_grade_F2
+sub_grade_F3
+sub_grade_F4
+sub_grade_F5
+sub_grade_G1
+sub_grade_G2
+sub_grade_G3
+sub_grade_G4
+sub_grade_G5
+emp_length_1 year
+emp_length_10+ years
+emp_length_2 years
+emp_length_3 years
+emp_length_4 years
+emp_length_5 years
+emp_length_6 years
+emp_length_7 years
+emp_length_8 years
+emp_length_9 years
+emp_length_< 1 year
+home_ownership_ANY
+home_ownership_MORTGAGE
+home_ownership_OWN
+home_ownership_RENT
+purpose_car
+purpose_credit_card
+purpose_debt_consolidation
+purpose_home_improvement
+purpose_house
+purpose_major_purchase
+purpose_medical
+purpose_moving
+purpose_other
+purpose_renewable_energy
+purpose_small_business
+purpose_vacation
+purpose_wedding
+mths_since_last_delinq_Never
+mths_since_last_delinq_[0.0, 1.0)
+mths_since_last_delinq_[1.0, 2.0)
+mths_since_last_delinq_[12.0, 18.0)
+mths_since_last_delinq_[18.0, 24.0)
+mths_since_last_delinq_[2.0, 3.0)
+mths_since_last_delinq_[24.0, 30.0)
+mths_since_last_delinq_[3.0, 6.0)
+mths_since_last_delinq_[30.0, 36.0)
+mths_since_last_delinq_[36.0, 42.0)
+mths_since_last_delinq_[42.0, 48.0)
+mths_since_last_delinq_[48.0, 54.0)
+mths_since_last_delinq_[54.0, 227.0)
+mths_since_last_delinq_[6.0, 12.0)
+mths_since_last_record_Never
+mths_since_last_record_[0.0, 1.0)
+mths_since_last_record_[1.0, 2.0)
+mths_since_last_record_[12.0, 18.0)
+mths_since_last_record_[18.0, 24.0)
+mths_since_last_record_[2.0, 3.0)
+mths_since_last_record_[24.0, 30.0)
+mths_since_last_record_[3.0, 6.0)
+mths_since_last_record_[30.0, 36.0)
+mths_since_last_record_[36.0, 42.0)
+mths_since_last_record_[42.0, 48.0)
+mths_since_last_record_[48.0, 54.0)
+mths_since_last_record_[54.0, 60.0)
+mths_since_last_record_[6.0, 12.0)
+mths_since_last_record_[60.0, 66.0)
+mths_since_last_record_[66.0, 72.0)
+mths_since_last_record_[72.0, 78.0)
+mths_since_last_record_[78.0, 84.0)
+mths_since_last_record_[84.0, 90.0)
+mths_since_last_record_[90.0, 125.0)
+mths_since_last_major_derog_Never
+mths_since_last_major_derog_[0.0, 1.0)
+mths_since_last_major_derog_[1.0, 2.0)
+mths_since_last_major_derog_[12.0, 18.0)
+mths_since_last_major_derog_[18.0, 24.0)
+mths_since_last_major_derog_[2.0, 3.0)
+mths_since_last_major_derog_[24.0, 30.0)
+mths_since_last_major_derog_[3.0, 6.0)
+mths_since_last_major_derog_[30.0, 36.0)
+mths_since_last_major_derog_[36.0, 42.0)
+mths_since_last_major_derog_[42.0, 48.0)
+mths_since_last_major_derog_[48.0, 54.0)
+mths_since_last_major_derog_[54.0, 60.0)
+mths_since_last_major_derog_[6.0, 12.0)
+mths_since_last_major_derog_[60.0, 66.0)
+mths_since_last_major_derog_[66.0, 227.0)
+mths_since_rcnt_il_[0.0, 1.0)
+mths_since_rcnt_il_[1.0, 2.0)
+mths_since_rcnt_il_[12.0, 15.0)
+mths_since_rcnt_il_[15.0, 18.0)
+mths_since_rcnt_il_[18.0, 21.0)
+mths_since_rcnt_il_[2.0, 3.0)
+mths_since_rcnt_il_[21.0, 24.0)
+mths_since_rcnt_il_[24.0, 512.0)
+mths_since_rcnt_il_[3.0, 6.0)
+mths_since_rcnt_il_[6.0, 9.0)
+mths_since_rcnt_il_[9.0, 12.0)
+mths_since_recent_bc_[0.0, 1.0)
+mths_since_recent_bc_[1.0, 2.0)
+mths_since_recent_bc_[12.0, 18.0)
+mths_since_recent_bc_[18.0, 24.0)
+mths_since_recent_bc_[2.0, 3.0)
+mths_since_recent_bc_[24.0, 30.0)
+mths_since_recent_bc_[3.0, 6.0)
+mths_since_recent_bc_[30.0, 640.0)
+mths_since_recent_bc_[6.0, 12.0)
+mths_since_recent_bc_dlq_Never
+mths_since_recent_bc_dlq_[0.0, 1.0)
+mths_since_recent_bc_dlq_[1.0, 2.0)
+mths_since_recent_bc_dlq_[12.0, 18.0)
+mths_since_recent_bc_dlq_[18.0, 24.0)
+mths_since_recent_bc_dlq_[2.0, 3.0)
+mths_since_recent_bc_dlq_[24.0, 30.0)
+mths_since_recent_bc_dlq_[3.0, 6.0)
+mths_since_recent_bc_dlq_[30.0, 36.0)
+mths_since_recent_bc_dlq_[36.0, 42.0)
+mths_since_recent_bc_dlq_[42.0, 48.0)
+mths_since_recent_bc_dlq_[48.0, 54.0)
+mths_since_recent_bc_dlq_[54.0, 60.0)
+mths_since_recent_bc_dlq_[6.0, 12.0)
+mths_since_recent_bc_dlq_[60.0, 203.0)
+mths_since_recent_inq_Never
+mths_since_recent_inq_[0.0, 1.0)
+mths_since_recent_inq_[1.0, 2.0)
+mths_since_recent_inq_[12.0, 26.0)
+mths_since_recent_inq_[2.0, 3.0)
+mths_since_recent_inq_[3.0, 6.0)
+mths_since_recent_inq_[6.0, 9.0)
+mths_since_recent_inq_[9.0, 12.0)
+mths_since_recent_revol_delinq_Never
+mths_since_recent_revol_delinq_[0.0, 1.0)
+mths_since_recent_revol_delinq_[1.0, 2.0)
+mths_since_recent_revol_delinq_[12.0, 18.0)
+mths_since_recent_revol_delinq_[18.0, 24.0)
+mths_since_recent_revol_delinq_[2.0, 3.0)
+mths_since_recent_revol_delinq_[24.0, 30.0)
+mths_since_recent_revol_delinq_[3.0, 6.0)
+mths_since_recent_revol_delinq_[30.0, 36.0)
+mths_since_recent_revol_delinq_[36.0, 42.0)
+mths_since_recent_revol_delinq_[42.0, 48.0)
+mths_since_recent_revol_delinq_[48.0, 54.0)
+mths_since_recent_revol_delinq_[54.0, 203.0)
+mths_since_recent_revol_delinq_[6.0, 12.0)
+Class_repaid

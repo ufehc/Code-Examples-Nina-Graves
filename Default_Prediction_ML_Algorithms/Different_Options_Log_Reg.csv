@@ -1,0 +1,33 @@
+replaced_features,replacement,scale,class_weight,Balanced_Accuracy,Accuracy,Pecision,Recall,Confusion-Matrix,AUC,most_relevant_features
+True,True,True,balanced,0.6609110652528587,0.6491729700173152,0.8828395307218135,0.6406360475015511,"[[12589  5892]
+ [24905 44398]]",0.6609110652528589,"['num_sats', 'open_acc', 'num_sats_rel', 'open_acc_rel', 'num_actv_rev_tl', 'num_rev_tl_bal_gt_0', 'int_rate', 'term', 'dti', 'grade_A', 'num_tl_op_past_12m', 'total_il_high_credit_limit', 'sub_grade_A1', 'total_bal_il', 'installment']"
+True,True,True,,0.5431378814827701,0.795213250706279,0.8044030080895784,0.9785434973954952,"[[ 1991 16490]
+ [ 1487 67816]]",0.5431378814827701,"['num_sats', 'open_acc', 'num_actv_rev_tl', 'term', 'num_rev_tl_bal_gt_0', 'int_rate', 'dti', 'grade_A', 'num_sats_rel', 'num_tl_op_past_12m', 'total_il_high_credit_limit', 'sub_grade_A1', 'installment', 'open_rv_12m', 'open_acc_rel']"
+True,True,False,balanced,0.6132057466872973,0.5789551626720131,0.8637856564384054,0.5540452794251332,"[[12426  6055]
+ [30906 38397]]",0.6132057466872974,"['percent_bc_gt_75', 'term', 'int_rate', 'mo_sin_old_rev_tl_op', 'bc_util', 'all_util', 'revol_util', 'dti', 'mo_sin_rcnt_rev_tl_op', 'mo_sin_old_il_acct', 'installment', 'mo_sin_rcnt_tl', 'months_since_earliest_cr_line', 'acc_open_past_24mths', 'open_rv_24m']"
+True,True,False,,0.5014699703680953,0.7892554451836326,0.7899615309977969,0.9985570610218893,"[[   81 18400]
+ [  100 69203]]",0.5014699703680953,"['mo_sin_old_rev_tl_op', 'term', 'percent_bc_gt_75', 'fico_range_low', 'fico_range_high', 'int_rate', 'installment', 'mo_sin_old_il_acct', 'bc_util', 'all_util', 'revol_util', 'dti', 'mo_sin_rcnt_rev_tl_op', 'months_since_earliest_cr_line', 'mo_sin_rcnt_tl']"
+True,False,True,balanced,0.660604434278667,0.6479996354688782,0.8829348064535428,0.6388323737789129,"[[12611  5870]
+ [25030 44273]]",0.660604434278667,"['num_actv_rev_tl', 'total_acc', 'int_rate', 'term', 'grade_A', 'dti', 'num_sats', 'num_rev_tl_bal_gt_0', 'total_il_high_credit_limit', 'num_tl_op_past_12m', 'sub_grade_A1', 'open_rv_12m', 'mo_sin_old_rev_tl_op', 'months_since_earliest_cr_line', 'total_bal_il']"
+True,False,True,,0.5425300513435258,0.7950993347307026,0.8041849436870184,0.9787887970217739,"[[ 1964 16517]
+ [ 1470 67833]]",0.5425300513435259,"['total_acc', 'num_actv_rev_tl', 'num_sats', 'int_rate', 'term', 'grade_A', 'dti', 'total_il_high_credit_limit', 'num_tl_op_past_12m', 'open_acc', 'num_rev_tl_bal_gt_0', 'sub_grade_A1', 'open_rv_12m', 'num_il_tl', 'mo_sin_old_rev_tl_op']"
+True,False,False,balanced,0.61326189568173,0.6041989428597466,0.8579359489580313,0.5976076071742926,"[[11623  6858]
+ [27887 41416]]",0.61326189568173,"['percent_bc_gt_75', 'term', 'mo_sin_old_rev_tl_op', 'int_rate', 'bc_util', 'all_util', 'revol_util', 'dti', 'mo_sin_rcnt_rev_tl_op', 'mo_sin_old_il_acct', 'installment', 'mo_sin_rcnt_tl', 'acc_open_past_24mths', 'months_since_earliest_cr_line', 'open_rv_24m']"
+True,False,False,,0.5016882116678628,0.7892554451836326,0.7900343681848803,0.9983983377342972,"[[   92 18389]
+ [  111 69192]]",0.5016882116678629,"['mo_sin_old_rev_tl_op', 'term', 'percent_bc_gt_75', 'int_rate', 'fico_range_low', 'fico_range_high', 'installment', 'mo_sin_old_il_acct', 'bc_util', 'all_util', 'revol_util', 'dti', 'mo_sin_rcnt_rev_tl_op', 'months_since_earliest_cr_line', 'mo_sin_rcnt_tl']"
+False,True,True,balanced,0.6605557388944041,0.6483299917980497,0.8828040957807084,0.6394384081497193,"[[12598  5883]
+ [24988 44315]]",0.660555738894404,"['int_rate', 'term', 'dti', 'grade_A', 'num_actv_rev_tl_rel', 'sub_grade_A1', 'installment', 'total_bc_limit', 'total_il_high_credit_limit', 'tot_hi_cred_lim', 'mo_sin_old_rev_tl_op', 'months_since_earliest_cr_line', 'tot_cur_bal', 'grade_E', 'grade_D']"
+False,True,True,,0.5428042085782137,0.795406907864759,0.8042764522514193,0.9791206729867394,"[[ 1968 16513]
+ [ 1447 67856]]",0.5428042085782135,"['term', 'int_rate', 'dti', 'grade_A', 'installment', 'tot_hi_cred_lim', 'total_bc_limit', 'num_actv_rev_tl_rel', 'sub_grade_A1', 'tot_cur_bal', 'open_acc_rel', 'num_sats_rel', 'total_il_high_credit_limit', 'mo_sin_old_rev_tl_op', 'months_since_earliest_cr_line']"
+False,True,False,balanced,0.6066985990054099,0.6229381208420669,0.8496050369855341,0.6347488564708599,"[[10694  7787]
+ [25313 43990]]",0.6066985990054099,"['percent_bc_gt_75', 'term', 'mo_sin_old_rev_tl_op', 'int_rate', 'all_util', 'bc_util', 'revol_util', 'dti', 'mo_sin_rcnt_rev_tl_op', 'mo_sin_old_il_acct', 'mo_sin_rcnt_tl', 'installment', 'months_since_earliest_cr_line', 'inq_last_12m', 'pct_tl_nvr_dlq']"
+False,True,False,,0.5023699903802168,0.7892668367811901,0.7902621294878533,0.9979221678715207,"[[  126 18355]
+ [  144 69159]]",0.5023699903802168,"['term', 'percent_bc_gt_75', 'int_rate', 'mo_sin_old_rev_tl_op', 'all_util', 'dti', 'bc_util', 'mo_sin_rcnt_rev_tl_op', 'revol_util', 'fico_range_low', 'fico_range_high', 'mo_sin_old_il_acct', 'months_since_earliest_cr_line', 'mo_sin_rcnt_tl', 'installment']"
+False,False,True,balanced,0.6588476519737807,0.6447872049576232,0.8824875082776473,0.6345612744037055,"[[12625  5856]
+ [25326 43977]]",0.6588476519737807,"['int_rate', 'grade_A', 'dti', 'total_il_high_credit_limit', 'term', 'mo_sin_old_rev_tl_op', 'sub_grade_A1', 'months_since_earliest_cr_line', 'total_bal_ex_mort', 'installment', 'tot_cur_bal', 'total_bc_limit', 'avg_cur_bal', 'grade_E', 'grade_D']"
+False,False,True,,0.5395395995450282,0.7945753212430511,0.8031145059830677,0.9800585833225113,"[[ 1830 16651]
+ [ 1382 67921]]",0.5395395995450282,"['int_rate', 'term', 'grade_A', 'dti', 'total_il_high_credit_limit', 'mo_sin_old_rev_tl_op', 'tot_cur_bal', 'months_since_earliest_cr_line', 'sub_grade_A1', 'installment', 'total_bc_limit', 'total_bal_ex_mort', 'avg_cur_bal', 'tot_hi_cred_lim', 'grade_E']"
+False,False,False,balanced,0.6133412444428394,0.602945867128406,0.8582660787087112,0.5953854811480023,"[[11667  6814]
+ [28041 41262]]",0.6133412444428393,"['percent_bc_gt_75', 'term', 'int_rate', 'all_util', 'bc_util', 'revol_util', 'dti', 'mo_sin_old_rev_tl_op', 'mo_sin_rcnt_rev_tl_op', 'months_since_earliest_cr_line', 'mo_sin_old_il_acct', 'mo_sin_rcnt_tl', 'installment', 'inq_last_12m', 'pct_tl_nvr_dlq']"
+False,False,False,,0.5068791126156861,0.7897452838786111,0.791775696644172,0.9954691716087327,"[[  338 18143]
+ [  314 68989]]",0.5068791126156861,"['term', 'percent_bc_gt_75', 'int_rate', 'mo_sin_old_rev_tl_op', 'all_util', 'dti', 'bc_util', 'revol_util', 'mo_sin_rcnt_rev_tl_op', 'months_since_earliest_cr_line', 'mo_sin_old_il_acct', 'mo_sin_rcnt_tl', 'installment', 'fico_range_low', 'fico_range_high']"
